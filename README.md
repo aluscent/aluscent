@@ -2,86 +2,125 @@
 
 # Ali Tarverdy
 
-### Data Engineer · Scala Developer
+### Senior Data Engineer · Scala & Distributed Data Systems
 
-I build reliable data platforms and distributed systems with **Scala**, **Apache Spark**, **Kafka**, and functional programming.
+I design and improve data-intensive systems where **correctness, performance, and operational reliability** matter — particularly in financial and regulated environments.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-t-asl/)
-[![Medium](https://img.shields.io/badge/Medium-Read_my_articles-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ali.t.asl)
-[![Email](https://img.shields.io/badge/Email-ali.t.asl%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:ali.t.asl@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/ali-t-asl/) · [Medium](https://medium.com/@ali.t.asl) · [Email](mailto:ali.t.asl@outlook.com)
+
+**Open to senior engineering opportunities and focused consulting engagements.**
 
 </div>
 
-## About me
+---
 
-I specialize in designing and operating data-intensive systems, particularly in regulated financial environments. My work spans batch and streaming pipelines, lakehouse architecture, distributed backend services, data quality, and production performance.
+## Engineering profile
 
-- Build scalable data pipelines with **Spark, Databricks, Delta Lake, Kafka, and SQL**
-- Develop type-safe backend and streaming systems with **Scala, Cats Effect, and Akka/Pekko**
-- Optimize large joins, aggregations, partitioning strategies, and distributed workloads
-- Integrate data platforms with **PostgreSQL, Oracle, Cassandra, and JDBC-based systems**
-- Care deeply about correctness, observability, maintainability, and operational simplicity
+I have **6+ years of professional engineering experience** across data platforms and Scala backend systems. I work at the boundary between business-critical data, distributed computation, and production software engineering.
 
-## Core expertise
+My role is not limited to implementing pipelines. I turn ambiguous reporting, integration, and platform requirements into systems with explicit contracts, testable transformations, observable execution, and a clear operational model.
 
-| Area | Technologies and practices |
+I am strongest when the problem involves:
+
+- architecting batch and streaming data workflows
+- diagnosing Spark and SQL performance at execution-plan level
+- designing reliable Scala services and event-driven components
+- protecting data correctness through validation, reconciliation, and controlled change
+- modernizing fragile pipelines without disrupting downstream consumers
+- communicating architecture and trade-offs across engineering and business stakeholders
+
+## Problems I solve
+
+| Engineering problem | How I approach it |
 | --- | --- |
-| **Data engineering** | Apache Spark, Spark SQL, Databricks, Delta Lake, Kafka, Hive, Parquet, CDC, ETL/ELT |
-| **Scala engineering** | Scala, Cats, Cats Effect, Akka/Pekko, functional programming, concurrent and event-driven systems |
-| **Cloud and platform** | Microsoft Azure, Docker, Kubernetes, Linux, Git, CI/CD |
-| **Databases** | PostgreSQL, Oracle, Cassandra, JDBC, data modelling and query optimization |
-| **Engineering quality** | Automated testing, Testcontainers, observability, performance tuning, resilient system design |
+| **Slow or unstable Spark workloads** | Inspect physical plans, shuffle behavior, skew, partitioning, join strategy, caching, and file layout before changing infrastructure. |
+| **Critical pipelines with weak reliability** | Make retry boundaries, idempotency, replay, backfill, schema evolution, and failure visibility explicit design concerns. |
+| **Complex financial-data transformations** | Separate business rules from execution mechanics, preserve traceability, and design reconciliation into the processing flow. |
+| **Low trust in data and lineage** | Introduce validation, metadata, column-level lineage, ambiguity handling, and explainable source-to-sink mappings. |
+| **Scala systems becoming difficult to evolve** | Use functional design, disciplined effects, type-safe boundaries, focused abstractions, and integration testing to reduce accidental complexity. |
+| **Architecture decisions driven by tools** | Start from constraints, failure modes, operating costs, and ownership — then select the technology. |
 
-## Technology stack
-
-<p>
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
-  <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge" alt="Delta Lake" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/Cats_Effect-6B4FBB?style=for-the-badge" alt="Cats Effect" />
-  <img src="https://img.shields.io/badge/Akka%20%2F%20Pekko-15A9CE?style=for-the-badge" alt="Akka and Pekko" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-## Selected projects
+## Selected systems
 
 ### [Transaction Guarantee Reporting System](https://github.com/aluscent/Transaction-Report)
-A Scala and Spark reporting pipeline for financial transactions and guarantor data. It includes validation, currency conversion, PostgreSQL integration, DataFrame and Spark SQL implementations, and automated testing.
 
-**Technologies:** Scala, Apache Spark, Spark SQL, PostgreSQL, Docker
+A Scala and Apache Spark reporting pipeline for financial transactions involving guarantor allocation, currency normalization, registry validation, partitioned reporting, and PostgreSQL integration.
+
+**Engineering focus**
+
+- DataFrame and Spark SQL implementations of the same reporting logic
+- broadcast-join and partitioning decisions for asymmetric datasets
+- financial-data validation and transformation boundaries
+- unit and integration testing around the complete processing flow
+- performance-aware design using predicate pushdown and controlled caching
+
+**Why it matters:** this project demonstrates an end-to-end reporting system rather than an isolated transformation — from source data and business rules to persistence, testing, and documented execution choices.
 
 ### [SQL Lineage Explorer](https://github.com/aluscent/SQL-Lineage-Explorer)
-A lightweight column-level lineage toolkit for chained Spark SQL queries, with a CLI and interactive web interface for exploring dependencies, expressions, joins, filters, and ambiguous references.
 
-**Technologies:** Python, SQLGlot, Flask, Spark SQL concepts, graph visualization
+A column-level lineage engine and interactive interface for chained Spark SQL. It resolves aliases, expands schema-aware star projections, captures non-projection influences, identifies ambiguous references, and visualizes source-to-sink data flow.
 
-### [Scala Akka KuCoin](https://github.com/aluscent/Scala-Akka-Kucoin)
-An event-driven Scala experiment for consuming market data and evaluating decision-making strategies using the Akka toolkit.
+**Engineering focus**
 
-**Technologies:** Scala, Akka, asynchronous and event-driven design
+- SQL parsing and metadata modelling
+- directed graph construction across intermediate query stages
+- lineage for expressions, joins, filters, grouping, and ordering
+- structured ambiguity detection and human-assisted resolution
+- CLI and web interfaces for different engineering workflows
 
-### [Mini Bank Backend](https://github.com/aluscent/Akka-BankBackend)
-A learning-oriented persistent banking backend built around actors, HTTP APIs, functional abstractions, and Cassandra.
+**Why it matters:** the project treats lineage as an engineering and trust problem, not merely a diagram — making complex transformations easier to inspect, explain, and change safely.
 
-**Technologies:** Scala, Akka Typed, Akka HTTP, Cats, Cassandra
+## Technical depth
+
+| Area | Primary capabilities |
+| --- | --- |
+| **Distributed data processing** | Apache Spark, Spark SQL, Databricks, Delta Lake, Parquet, Hive-compatible platforms, large joins and aggregations |
+| **Scala engineering** | Scala, Cats, Cats Effect, Akka/Pekko, functional programming, concurrent and event-driven systems |
+| **Data movement and integration** | Kafka, CDC patterns, JDBC, PostgreSQL, Oracle, Cassandra, batch and streaming pipelines |
+| **Platform engineering** | Microsoft Azure, Docker, Kubernetes, Linux, Git, CI/CD, dependency and environment management |
+| **Production quality** | Integration testing, Testcontainers, observability, performance analysis, failure recovery, maintainable system boundaries |
+| **Domain focus** | Financial data, regulatory reporting, governed data platforms, lineage, auditability, and data quality |
+
+## How I engineer
+
+- **Correctness is a system property.** Validation, reconciliation, contracts, and failure behavior belong in the architecture.
+- **Performance work starts with evidence.** I prefer execution plans, runtime metrics, and representative workloads over intuition-driven tuning.
+- **Operability is part of delivery.** A pipeline is incomplete without monitoring, recovery, backfill, and ownership considerations.
+- **Abstractions must earn their cost.** I use functional and type-safe techniques to clarify systems, not to make simple problems look sophisticated.
+- **Technical decisions should remain explainable.** Architecture diagrams, decision records, tests, and precise documentation reduce long-term risk.
+- **Senior engineering is leverage.** The goal is not only to deliver code, but to leave behind clearer systems, reusable patterns, and stronger engineering judgment.
+
+## Consulting
+
+I work with engineering teams that need concentrated expertise in data-intensive and Scala-based systems.
+
+Typical engagements include:
+
+- **Spark performance assessment** — execution-plan analysis, bottleneck diagnosis, benchmark design, and a prioritized optimization plan
+- **Pipeline reliability review** — failure-mode analysis, replay and backfill strategy, data-quality controls, and observability recommendations
+- **Data-platform architecture review** — current-state mapping, architectural risks, target design, and an incremental implementation roadmap
+- **Scala modernization** — architecture and dependency review, effect and concurrency boundaries, testing strategy, and migration planning
+- **Lineage and governance design** — metadata modelling, column-level lineage, auditability, and integration options
+
+A focused engagement typically produces a **current-state assessment, risk map, target architecture, decision record, proof of concept where useful, and an implementation roadmap**. The objective is to leave the team with both a better system and the reasoning needed to maintain it.
 
 ## Current focus
 
-- High-performance Spark and SQL workloads at scale
-- Lakehouse architecture, data governance, and lineage
-- Functional Scala and resilient distributed systems
-- Financial and regulatory data platforms
-- Developer tooling that makes complex data systems easier to understand and operate
+- high-performance Spark and SQL workloads
+- lakehouse architecture and governed data products
+- replay-safe streaming and event-driven systems
+- lineage, metadata, and data-quality tooling
+- financial and regulatory data platforms
+- reusable Scala patterns for reliable production services
 
 ---
 
 <div align="center">
-  <sub>Interested in Scala, distributed data systems, or financial-data engineering? Let’s connect.</sub>
+
+### Let’s work on a difficult data problem.
+
+For senior engineering roles, architecture discussions, or consulting engagements:
+
+[LinkedIn](https://www.linkedin.com/in/ali-t-asl/) · [Email](mailto:ali.t.asl@outlook.com)
+
 </div>

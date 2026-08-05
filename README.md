@@ -1,48 +1,126 @@
-<h1 align="center">Hi, it's Ali Tarverdy!</h1>
-<h3 align="center">A passionate Scala backend developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aluscent&label=Profile%20views&color=0e75b6&style=flat" alt="aluscent" /> </p>
+# Ali Tarverdy
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aluscent" alt="aluscent" /></a> </p>
+### Senior Data Engineer · Scala & Distributed Data Systems
 
-- 💬 Ask me about **Scala, FP, Akka, Cats effect and data engineering**
+I design and improve data-intensive systems where **correctness, performance, and operational reliability** matter — particularly in financial and regulated environments.
 
-- 📫 Reach me at **ali.t.asl@outlook.com**
+[LinkedIn](https://www.linkedin.com/in/ali-t-asl/) · [Medium](https://medium.com/@ali.t.asl) · [Email](mailto:ali.t.asl@outlook.com)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+**Open to senior engineering opportunities and focused consulting engagements.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-t-asl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-t-asl/" height="30" width="40" /></a>
-<a href="https://medium.com/@ali.t.asl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ali.t.asl" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
-  <a href="https://akka.io/" target="_blank" rel="noreferrer"> <img src="https://akka.io/hubfs/AKKA-2024/Images/akka_logo.svg" alt="akka" width="40" height="40"/> </a>
-  <a href="https://typelevel.org/" target="_blank" rel="noreferrer"> <img src="https://typelevel.org/img/logo.svg" alt="typelevel" width="120" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-</p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/aluscent"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aluscent" /></a><a href="https://ko-fi.com/aluscent"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aluscent" /></a></p><br><br>
+## Engineering profile
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aluscent&show_icons=true&locale=en&layout=compact" alt="aluscent" /></p> -->
-<p></p>
+I have **6+ years of professional engineering experience** across data platforms and Scala backend systems. I work at the boundary between business-critical data, distributed computation, and production software engineering.
 
-<div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aluscent&show_icons=true&locale=en" alt="aluscent" /></p>
+My role is not limited to implementing pipelines. I turn ambiguous reporting, integration, and platform requirements into systems with explicit contracts, testable transformations, observable execution, and a clear operational model.
+
+I am strongest when the problem involves:
+
+- architecting batch and streaming data workflows
+- diagnosing Spark and SQL performance at execution-plan level
+- designing reliable Scala services and event-driven components
+- protecting data correctness through validation, reconciliation, and controlled change
+- modernizing fragile pipelines without disrupting downstream consumers
+- communicating architecture and trade-offs across engineering and business stakeholders
+
+## Problems I solve
+
+| Engineering problem | How I approach it |
+| --- | --- |
+| **Slow or unstable Spark workloads** | Inspect physical plans, shuffle behavior, skew, partitioning, join strategy, caching, and file layout before changing infrastructure. |
+| **Critical pipelines with weak reliability** | Make retry boundaries, idempotency, replay, backfill, schema evolution, and failure visibility explicit design concerns. |
+| **Complex financial-data transformations** | Separate business rules from execution mechanics, preserve traceability, and design reconciliation into the processing flow. |
+| **Low trust in data and lineage** | Introduce validation, metadata, column-level lineage, ambiguity handling, and explainable source-to-sink mappings. |
+| **Scala systems becoming difficult to evolve** | Use functional design, disciplined effects, type-safe boundaries, focused abstractions, and integration testing to reduce accidental complexity. |
+| **Architecture decisions driven by tools** | Start from constraints, failure modes, operating costs, and ownership — then select the technology. |
+
+## Selected systems
+
+### [Transaction Guarantee Reporting System](https://github.com/aluscent/Transaction-Report)
+
+A Scala and Apache Spark reporting pipeline for financial transactions involving guarantor allocation, currency normalization, registry validation, partitioned reporting, and PostgreSQL integration.
+
+**Engineering focus**
+
+- DataFrame and Spark SQL implementations of the same reporting logic
+- broadcast-join and partitioning decisions for asymmetric datasets
+- financial-data validation and transformation boundaries
+- unit and integration testing around the complete processing flow
+- performance-aware design using predicate pushdown and controlled caching
+
+**Why it matters:** this project demonstrates an end-to-end reporting system rather than an isolated transformation — from source data and business rules to persistence, testing, and documented execution choices.
+
+### [SQL Lineage Explorer](https://github.com/aluscent/SQL-Lineage-Explorer)
+
+A column-level lineage engine and interactive interface for chained Spark SQL. It resolves aliases, expands schema-aware star projections, captures non-projection influences, identifies ambiguous references, and visualizes source-to-sink data flow.
+
+**Engineering focus**
+
+- SQL parsing and metadata modelling
+- directed graph construction across intermediate query stages
+- lineage for expressions, joins, filters, grouping, and ordering
+- structured ambiguity detection and human-assisted resolution
+- CLI and web interfaces for different engineering workflows
+
+**Why it matters:** the project treats lineage as an engineering and trust problem, not merely a diagram — making complex transformations easier to inspect, explain, and change safely.
+
+## Technical depth
+
+| Area | Primary capabilities |
+| --- | --- |
+| **Distributed data processing** | Apache Spark, Spark SQL, Databricks, Delta Lake, Parquet, Hive-compatible platforms, large joins and aggregations |
+| **Scala engineering** | Scala, Cats, Cats Effect, Akka/Pekko, functional programming, concurrent and event-driven systems |
+| **Data movement and integration** | Kafka, CDC patterns, JDBC, PostgreSQL, Oracle, Cassandra, batch and streaming pipelines |
+| **Platform engineering** | Microsoft Azure, Docker, Kubernetes, Linux, Git, CI/CD, dependency and environment management |
+| **Production quality** | Integration testing, Testcontainers, observability, performance analysis, failure recovery, maintainable system boundaries |
+| **Domain focus** | Financial data, regulatory reporting, governed data platforms, lineage, auditability, and data quality |
+
+## How I engineer
+
+- **Correctness is a system property.** Validation, reconciliation, contracts, and failure behavior belong in the architecture.
+- **Performance work starts with evidence.** I prefer execution plans, runtime metrics, and representative workloads over intuition-driven tuning.
+- **Operability is part of delivery.** A pipeline is incomplete without monitoring, recovery, backfill, and ownership considerations.
+- **Abstractions must earn their cost.** I use functional and type-safe techniques to clarify systems, not to make simple problems look sophisticated.
+- **Technical decisions should remain explainable.** Architecture diagrams, decision records, tests, and precise documentation reduce long-term risk.
+- **Senior engineering is leverage.** The goal is not only to deliver code, but to leave behind clearer systems, reusable patterns, and stronger engineering judgment.
+
+## Consulting
+
+I work with engineering teams that need concentrated expertise in data-intensive and Scala-based systems.
+
+Typical engagements include:
+
+- **Spark performance assessment** — execution-plan analysis, bottleneck diagnosis, benchmark design, and a prioritized optimization plan
+- **Pipeline reliability review** — failure-mode analysis, replay and backfill strategy, data-quality controls, and observability recommendations
+- **Data-platform architecture review** — current-state mapping, architectural risks, target design, and an incremental implementation roadmap
+- **Scala modernization** — architecture and dependency review, effect and concurrency boundaries, testing strategy, and migration planning
+- **Lineage and governance design** — metadata modelling, column-level lineage, auditability, and integration options
+
+A focused engagement typically produces a **current-state assessment, risk map, target architecture, decision record, proof of concept where useful, and an implementation roadmap**. The objective is to leave the team with both a better system and the reasoning needed to maintain it.
+
+## Current focus
+
+- high-performance Spark and SQL workloads
+- lakehouse architecture and governed data products
+- replay-safe streaming and event-driven systems
+- lineage, metadata, and data-quality tooling
+- financial and regulatory data platforms
+- reusable Scala patterns for reliable production services
+
+---
+
+<div align="center">
+
+### Let’s work on a difficult data problem.
+
+For senior engineering roles, architecture discussions, or consulting engagements:
+
+[LinkedIn](https://www.linkedin.com/in/ali-t-asl/) · [Email](mailto:ali.t.asl@outlook.com)
+
 </div>

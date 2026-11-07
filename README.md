@@ -6,7 +6,7 @@
 
 I design and improve data-intensive systems where **correctness, performance, and operational reliability** matter — particularly in financial and regulated environments.
 
-[LinkedIn](https://www.linkedin.com/in/ali-t-asl/) · [Medium](https://medium.com/@ali.t.asl) · [Email](mailto:ali.t.asl@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/ali-t-asl/) · [Medium](https://medium.com/@ali.t.asl) · [Email](mailto:ali.t.asl@outlook.com) · [Personal Website](https://alex-tarverdy.xyz/)
 
 **Open to senior engineering opportunities and focused consulting engagements.**
 
